@@ -6,6 +6,7 @@ function App() {
     <div className="App">
     hi
     myname is geonwoo
+    and it will be end of this practice
     </div>
   );
 }
